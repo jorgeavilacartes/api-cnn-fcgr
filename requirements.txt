@@ -1,0 +1,7 @@
+tensorflow==2.7
+pillow
+biopython
+fastapi
+uvicorn
+python-multipart
+sqlalchemy
